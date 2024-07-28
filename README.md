@@ -1,5 +1,11 @@
 ## About Me
+I am interested in solving the challenges in the perception of autonomous driving based on computer vision, deep learning, and pattern recognition. Specifically, my research interests includes semantically understanding real-world spaces and overcoming the degraded performance of vision systems under adverse conditions such as inclement weather.
 
+## Research Interest
+- Computer Vision
+- 2D/3D Semantic Segmentation
+- Semantic-SLAM
+- Pattern Recognition
 <!--
 **Kitten171922/Kitten171922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
