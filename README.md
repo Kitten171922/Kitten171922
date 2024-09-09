@@ -10,24 +10,24 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 - Pattern Recognition
 
 ## Projects
-### Hyundai Motor Group (2023.07 ~ 2023.08)
+#### Hyundai Motor Group (2023.07 ~ 2023.08)
 - Role: AI developer and Machine Learning Engineer
 - Project: Realtime raindrop detection on camera for sensor cleaning 
-### ETRI (2023.04 ~ 2023.07)
+#### ETRI (2023.04 ~ 2023.07)
 - Role: Integrated Manager and Assistant Researcher
 - Project: High-Speed Analysis of Distributed Large-Scale Data for Wide Usability of Various Industries
-### KIAT (2022.09 ~ 2023.02)
+#### KIAT (2022.09 ~ 2023.02)
 - Role: Assistant Researcher
 - Project: Fostering specialized R&D talent to secure competitiveness in core technologies for future vehicles
 
 ## Papers in Submission
-### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
+#### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
 - Authorship: The first author
 - Journal: Pattern Recognition Letters
-### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement Leveraging Synthetic and Pseudo-Labeled Data
+#### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement Leveraging Synthetic and Pseudo-Labeled Data
 - Authorship: a first author (co-first authors)
 - Conference: Hyundai Motor Group Developer Conference 2024
-### An Effective Summary Preprocessing Method for Time Series Forecasting
+#### An Effective Summary Preprocessing Method for Time Series Forecasting
 - Authorship: The first author
 - Conference: IEEE International Conference on Big Data
 <!--
