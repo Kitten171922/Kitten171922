@@ -10,7 +10,7 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 - Pattern Recognition
 
 ## Projects
-### Hyundai Moter Group (2023.07 ~ 2023.08)
+### Hyundai Motor Group (2023.07 ~ 2023.08)
 - Role: AI developer and Machine Learning Engineer
 - Project: Realtime raindrop detection on camera for sensor cleaning 
 ### ETRI (2023.04 ~ 2023.07)
