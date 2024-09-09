@@ -19,6 +19,17 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 ### KIAT (2022.09 ~ 2023.02)
 - Role: Assistant Researcher
 - Project: Fostering specialized R&D talent to secure competitiveness in core technologies for future vehicles
+
+## Papers in Submission
+### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
+- Authorship: The first author
+- Journal: Pattern Recognition Letters
+### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement Leveraging Synthetic and Pseudo-Labeled Data
+- Authorship: a first author (co-first authors)
+- Conference: Hyundai Motor Group Developer Conference 2024
+### An Effective Summary Preprocessing Method for Time Series Forecasting
+- Authorship: The first author
+- Conference: IEEE International Conference on Big Data
 <!--
 **Kitten171922/Kitten171922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
