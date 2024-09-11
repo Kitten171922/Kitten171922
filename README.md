@@ -26,7 +26,7 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 - Conference: Hyundai Motor Group Developer Conference 2024
 #### An Effective Summary Preprocessing Method for Time Series Forecasting
 - Authorship: The first author
-- Conference: IEEE International Conference on Big Data
+- Conference: IEEE International Conference on Big Data 2024
 #### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
 - Authorship: The first author
 - Journal: Pattern Recognition Letters
