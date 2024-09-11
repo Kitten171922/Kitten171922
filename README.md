@@ -21,7 +21,7 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 - Project: Fostering specialized R&D talent to secure competitiveness in core technologies for future vehicles
 
 ## Papers in Submission
-#### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement Leveraging Synthetic and Pseudo-Labeled Data
+#### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement <br>Leveraging Synthetic and Pseudo-Labeled Data
 - Authorship: a first author (co-first authors)
 - Conference: Hyundai Motor Group Developer Conference 2024
 #### An Effective Summary Preprocessing Method for Time Series Forecasting
@@ -30,6 +30,7 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 #### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
 - Authorship: The first author
 - Journal: Pattern Recognition Letters
+- Preprint: [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745157)
 <!--
 **Kitten171922/Kitten171922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
