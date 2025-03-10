@@ -21,7 +21,7 @@ I obtained an M.S. in Artificial Intelligence and am pursuing PhD at Sogang Univ
 - Project: Fostering specialized R&D talent to secure competitiveness in core technologies for future vehicles
 
 ## Publications
-#### Mars: More Accurate, Robust, and Speedy 3D Semantic Segmentation
+#### Anonymoused Title
 - Authorship: The first author
 - Conference: ICCV 2025
 #### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement <br>Leveraging Synthetic and Pseudo-Labeled Data
