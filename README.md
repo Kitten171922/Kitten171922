@@ -1,7 +1,7 @@
 ## About Me
-I am interested in solving the challenges in the perception of autonomous driving based on computer vision, deep learning, and pattern recognition. Specifically, my research interests includes semantically understanding real-world spaces and overcoming the degraded performance of vision systems under adverse conditions such as inclement weather. Ultimately, my research aims to develop the appliable perception techniques in the industries.
+I am interested in solving the challenges in the perception of autonomous driving using computer vision, deep learning, and pattern recognition. Specifically, my research interests include semantically understanding real-world spaces and overcoming the degraded performance of vision systems under adverse conditions, such as inclement weather. Ultimately, my research aims to develop applicable perception techniques in the industries.
 
-I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University. Before joining Sogang, I spent memorable times at Hankuk University of Foreign Studies (HUFS), where I obtained a B.S. in Computer Science.
+I obtained an M.S. in Artificial Intelligence and am pursuing PhD at Sogang University. Before joining Sogang, I spent memorable times at Hankuk University of Foreign Studies (HUFS), where I obtained a B.S. in Computer Science.
 
 ## Research Interest
 - Computer Vision
@@ -21,16 +21,19 @@ I obtained M.S. in Artificial Intelligence and pursuing PhD at Sogang University
 - Project: Fostering specialized R&D talent to secure competitiveness in core technologies for future vehicles
 
 ## Publications
+#### Mars: More Accurate, Robust, and Speedy 3D Semantic Segmentation
+- Authorship: The first author
+- Conference: ICCV 2025
 #### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement <br>Leveraging Synthetic and Pseudo-Labeled Data
 - Authorship: a first author (co-first authors)
-- Conference: Hyundai Motor Group Developer Conference 2024
+- Conference: The 32th Hyundai Motor Group Developer Conference
 #### An Effective Summary Preprocessing Method for Time Series Forecasting
 - Authorship: The first author
 - Conference: IEEE Access
-- Status: Under Review
+- Status: Under Revision
 #### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
 - Authorship: The first author
-- Journal: Pattern Recognition Letters
+- Journal: Journal of Visual Communication and Image Representation
 - Status: Under Review
 - Preprint: [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745157)
 <!--
