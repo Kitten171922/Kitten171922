@@ -1,52 +1,49 @@
-## About Me
-I am interested in solving the challenges in the perception of autonomous driving using computer vision, deep learning, and pattern recognition. Specifically, my research interests include semantically understanding real-world spaces and overcoming the degraded performance of vision systems under adverse conditions, such as inclement weather. Ultimately, my research aims to develop applicable perception techniques in the industries.
+## Keyword:
+1. Computer Vision and Deep Learning
+2. Perception on Autonomous Driving
+3. Both Camera and Lidar based Detection/Segmentation
+4. Transformer (LLMs and VLMs)
+5. Large-Scale Spatial Data
 
-I obtained an M.S. in Artificial Intelligence and am pursuing PhD at Sogang University. Before joining Sogang, I spent memorable times at Hankuk University of Foreign Studies (HUFS), where I obtained a B.S. in Computer Science.
+## Experience
+2024.12 – 2025.02 ] Reviewer on IEEE Open Journal of Vehicular Technology (OJVT)  
+2023.07 – 2023.08 ] Served as an Student Attendee at Hyundai Moter Company, for R&D on AI.  
+2023.03 – 2023.08 ] Integrated Manager for a research project in ETRI using C/C++ and gRPC.
 
-## Research Interest
-- Computer Vision
-- 2D/3D Semantic Segmentation
-- Semantic-SLAM
-- Pattern Recognition
+## Education
+2024.08 ] M.S. Arificial Intelligent, Sogang University in Computer Vision.  
+2022.08 ] B.S. Computer Science, Hankuk University of Foreign Studies (HUFS)  
+2021.07 ] Intermediate High, Language Training, University of Delaware
 
-## Projects
-#### Hyundai Motor Group (2023.07 ~ 2023.08)
-- Role: AI developer and Machine Learning Engineer
-- Project: Realtime raindrop detection on camera for sensor cleaning 
-#### ETRI (2023.04 ~ 2023.07)
-- Role: Integrated Manager and Assistant Researcher
-- Project: High-Speed Analysis of Distributed Large-Scale Data for Wide Usability of Various Industries
-#### KIAT (2022.09 ~ 2023.02)
-- Role: Assistant Researcher
-- Project: Fostering specialized R&D talent to secure competitiveness in core technologies for future vehicles
+## News (2024.09 – Current)
+2025.09 ] [Submission] One Paper submitted to WACV2026.  
+2025.06 ] [Paper Accept] One Paper accepted to the ICCV Workshop 2025.  
+2025.03 ] [Paper Accept] One Paper accepted to the IEEE Access.  
+2024.10 ] [Paper Accept] One Paper accepted to the The 32th Conference of Hyundai Moter Group.  
+2024.09 ] [Side Project] Became team leader and led the team (Project Topic: Vision Language Model)
 
-## Publications
-#### Anonymoused Title
-- Authorship: The first author
-- Conference: ICCV 2025
-#### Domain Adaptive Semantic Segmentation for Camera Lens Contamination Measurement <br>Leveraging Synthetic and Pseudo-Labeled Data
-- Authorship: a first author (co-first authors)
-- Conference: The 32th Hyundai Motor Group Developer Conference
-#### An Effective Summary Preprocessing Method for Time Series Forecasting
-- Authorship: The first author
-- Conference: IEEE Access
-- Status: Under Revision
-#### Improved Semantic Segmentation by Fisheye Image Augmentation for Driving Scene
-- Authorship: The first author
-- Journal: Journal of Visual Communication and Image Representation
-- Status: Under Review
-- Preprint: [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745157)
-<!--
-**Kitten171922/Kitten171922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Papers
+### Conference
+1 H. Lee, S. Park, and M. Lee, “Fisheye image augmentation for overcoming domain gaps with the limited  
+dataset,” in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops,  
+Oct. 2025, pp. 3064–3072. .
 
-Here are some ideas to get you started:
+2 J. J. Howan Jang Yeongju Jo and H.S.Lee, “Development of segmentation model, robust to domain gap,  
+for real-time estimation on contamination rate,” in The 32th Conference of Hyundai Moter Group, 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Journal
+1 H.S.Lee and Y. Y. K. S. W. Jung, “An effective summary preprocessing method for time series  
+forecasting with multiple temporal granularities,” IEEE Access, 2025. .
+
+2 H.S.Lee, “Effective node embedding technique based on gcn for semantic segmentation in point  
+clouds,” M.S.Thesis, Library of Sogang University, 2024. .
+
+## Skills
+Coding ] Python, C/C++, Java, sql, LAT  
+E  
+X.  
+Algorithm ] Reached the final qualifying round on Samsung Collegiate Programming Cup (SCPC)  
+AI/ML Tools ] General Tools including PyTorch, OpenCV2, Numpy and Pandas  
+ETC ] VLM/LLM, Large-scale geospatial data (GPS), Time-Series data, Graph Neural Networks, GAI
+
+---
