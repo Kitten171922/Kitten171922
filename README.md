@@ -38,12 +38,4 @@ forecasting with multiple temporal granularities,” IEEE Access, 2025. .
 2 H.S.Lee, “Effective node embedding technique based on gcn for semantic segmentation in point  
 clouds,” M.S.Thesis, Library of Sogang University, 2024. .
 
-## Skills
-Coding ] Python, C/C++, Java, sql, LAT  
-E  
-X.  
-Algorithm ] Reached the final qualifying round on Samsung Collegiate Programming Cup (SCPC)  
-AI/ML Tools ] General Tools including PyTorch, OpenCV2, Numpy and Pandas  
-ETC ] VLM/LLM, Large-scale geospatial data (GPS), Time-Series data, Graph Neural Networks, GAI
 
----
